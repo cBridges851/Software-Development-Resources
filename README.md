@@ -4,11 +4,11 @@ Hello and welcome to the resources repo! This has been created to collate any us
 **Contents:**
 [Front-end](## Front-end)
 	[HTML](### HTML)
-	[CSS] (### CSS)
-	[JavaScript] (### JavaScript)
+	[CSS](### CSS)
+	[JavaScript](### JavaScript)
 	
-[Back-end] (## Back-end)
-	[C#] (### C#)
+[Back-end](## Back-end)
+	[C#](### C#)
 	
 [Careers]
 
