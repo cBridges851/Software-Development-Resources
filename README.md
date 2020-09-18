@@ -7,7 +7,6 @@ Hello and welcome to the resources repo! This has been created to collate any us
 ### CSS
 ### JavaScript
 
-
 ## Back-end
 ### C#
 
