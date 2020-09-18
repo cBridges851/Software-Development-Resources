@@ -3,14 +3,14 @@ Hello and welcome to the resources repo! This has been created to collate any us
 
 **Contents:**
 [Front-end](##front-end)
-	[HTML](### HTML)
-	[CSS](### CSS)
-	[JavaScript](### JavaScript)
+	[HTML](###html)
+	[CSS](###css)
+	[JavaScript](###javascript)
 	
-[Back-end](## Back-end)
-	[C#](### C#)
+[Back-end](##back-end)
+	[C#](###c#)
 	
-[Careers]
+[Careers](##careers)
 
 ## Front-end
 ### HTML
