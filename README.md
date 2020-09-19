@@ -21,7 +21,7 @@ Hello and welcome to the resources repo! This has been created to collate any us
 
 ## Front-end
 ### HTML
-
+[Video Introduction to HTML by CS50](https://youtu.be/78wdlyzrKOA)
 ### CSS
 
 ### JavaScript
