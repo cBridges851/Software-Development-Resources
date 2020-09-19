@@ -3,21 +3,21 @@ Hello and welcome to the resources repo! This has been created to collate any us
 
 **Contents:**
 
-[**Front-end:**](https://github.com/cBridges851/SCG-Coding-Club-Resources/blob/Layout/README.md#front-end)
+[**Front-end:**](https://github.com/cBridges851/Software-Development-Resources/tree/master#front-end)
 
-[HTML](https://github.com/cBridges851/SCG-Coding-Club-Resources/blob/Layout/README.md#html)
+[HTML](https://github.com/cBridges851/Software-Development-Resources/tree/master#html)
 
-[CSS](https://github.com/cBridges851/SCG-Coding-Club-Resources/blob/Layout/README.md#css)
+[CSS](https://github.com/cBridges851/Software-Development-Resources/tree/master#css)
 
-[JavaScript](https://github.com/cBridges851/SCG-Coding-Club-Resources/blob/Layout/README.md#javascript)
-
-	
-[**Back-end:**](https://github.com/cBridges851/SCG-Coding-Club-Resources/blob/Layout/README.md#back-end)
-
-[C#](https://github.com/cBridges851/SCG-Coding-Club-Resources/blob/Layout/README.md#c)
+[JavaScript](https://github.com/cBridges851/Software-Development-Resources/tree/master#css)
 
 	
-[**Careers**](https://github.com/cBridges851/SCG-Coding-Club-Resources/blob/Layout/README.md#c)
+[**Back-end:**](https://github.com/cBridges851/Software-Development-Resources/tree/master#back-end)
+
+[C#](https://github.com/cBridges851/Software-Development-Resources/tree/master#c)
+
+	
+[**Careers**](https://github.com/cBridges851/Software-Development-Resources/tree/master#careers)
 
 ## Front-end
 ### HTML
